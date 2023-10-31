@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: auth/jwt.go
+  checksum: e15d6c081d32e26addd16647f864f325fa859e2f78528ce38090f8c60ee2d468
+- filename: config/constants.go
+  checksum: 2faa9495e32808d022600c02da832d8a0d5754030f61ad1ecff96f117041ce58
+- filename: config/dbconnection.go
+  checksum: 16f77920f268978419bafc5503583ed932d737541c06c9f56b69ec9799f9e020
+- filename: go.sum
+  checksum: d6429f6e5b88af737785ffa3ebf5791e685c4ea2850856e117755bb998e1a8ec
+- filename: model/models.go
+  checksum: 97ddd4964a092ea9860a8c33a3dc4db9fb93ef239e4fa6e493496b4d5a455223
+version: "1.0"
